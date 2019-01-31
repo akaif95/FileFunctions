@@ -1,14 +1,3 @@
-'''
-Author: <Ali Kaif>
-Date: <March 15th, 2018>
-Class: ISTA 130
-Section Leader: <Sebastian>
-
-Description:
-<List of Program for HW #5>
-'''
-
-
 def US_to_EU(date):
     slash1 = date.find('/')
     slash2 = date.find('/', slash1 + 1)
